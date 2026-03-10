@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yesraj123.aternos.me",
+    "ip": "yesraj123.aternos.me:33586",
     "port": 33586,
     "version": "1.21.1"
   },
